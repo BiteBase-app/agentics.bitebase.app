@@ -1,0 +1,16 @@
+name: agentics.bitebase.app
+id: ari:cloud:compass:af971579-9853-4d1d-a13d-a7a4f19f0f21:component/a1f6db64-4f64-4c66-9241-99b0d67cac95/9671aef8-feb6-40c8-bba6-695de16528dd
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/BiteBase-app/agentics.bitebase.app
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
